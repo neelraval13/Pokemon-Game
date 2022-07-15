@@ -20,3 +20,7 @@
 • find a font that is similar to the Pokemon font
 
 • add some CSS style to the input form
+
+# Game Diagram
+
+![alt text](https://github.com/neelraval13/Pokemon-Game/blob/master/Game%20Diagram.avif?raw=true)
